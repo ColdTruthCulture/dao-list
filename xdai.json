@@ -6,7 +6,7 @@
       "description": "Building and experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
       "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/nativeToken.png",
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo.png",
-      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo_type.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo.png",
       "wiki": "https://1hive.gitbook.io/1hive/",
       "forum": "https://forum.1hive.org/",
       "links": {
@@ -85,6 +85,47 @@
           {
             "label": "FAQs",
             "link": "https://wiki.1hive.org/guides/agave-faq"
+          }
+        ]
+      }
+    },
+    {
+      "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
+      "name": "Cold Truth Culture",
+      "description": "A commiunity that empowers NFT artists",
+      "wrappableToken": {
+        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo.png"
+      },
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo_type.png",
+      "forum": "https://forum.1hive.org/",
+      "links": {
+        "community": [
+          {
+            "label": "Discord",
+            "link": "https://discord.com/invite/6sdT77HP9u"
+          },
+          {
+            "label": "Github",
+            "link": "https://github.com/ColdTruthCulture"
+          },
+          {
+            "label": "Twitter",
+            "link": "https://twitter.com/ColdTruthCult"
+          },
+          {
+            "label": "Telegram",
+            "link": "https://t.me/ColdTruthCultureNFTs"
+          },
+          {
+            "label": "Forum",
+            "link": "https://forum.1hive.org/"
+          }
+        ],
+        "documentation": [
+          {
+            "label": "Website",
+            "link": "https://coldtruthculture.io"
           }
         ]
       }
